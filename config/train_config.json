@@ -1,0 +1,9 @@
+{
+  "epochs": 800,
+  "batch_size": 4,
+  "lr": 0.00005,
+  "train_hr_dir": "data/DIV2K_train_HR",
+  "train_lr_dir": "data/train_LR",
+  "image_size": 64,
+  "save_every": 2
+}
